@@ -1,6 +1,9 @@
-# Awesome Upgradeability • <a href="https://github.com/sindresorhus/awesome"> <img alt="awesome list badge" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a> <a href="https://github.com/nomad-xyz/awesome-interoperability/graphs/contributors"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/PraneshASP/awesome-upgradeability"></a> <a href="http://makeapullrequest.com"> <img alt="pull requests welcome badge" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat"> </a>
+# Awesome Upgradeability • <a href="https://github.com/sindresorhus/awesome"> <img alt="awesome list badge" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a> <a href="http://makeapullrequest.com"> <img alt="pull requests welcome badge" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat"> </a>
 
-<p>A curated list of awesome smartcontract upgradeability resources, libraries, tools and more.</p>
+<img align="center" src="./assets/banner.jpg" alt="awesome-upgradeability" title="awesome-foundry" />
+
+> A curated list of awesome resources, tutorials, tools and libraries related to smartcontract upgradeability. Inspired by [awesome-foundry](https://github.com/crisgarner/awesome-foundry).
+
 <p>Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for information on formatting and writing pull requests.</p>
 
 ## Articles:
@@ -32,6 +35,7 @@
 
 ## Misc Repos:
 
+- [Awesome Diamonds](https://github.com/mudgen/awesome-diamonds)
 - [Implementation of the various upgradeable proxy pattern [WIP] - Brownie](https://github.com/MikeSpa/proxy-pattern)
 - [Moralis Tutorial - Hardhat](https://github.com/YosephKS/moralis-upgradeable-smart-contracts/tree/main)
 - [OpenZeppelin Upgradeable Contracts With Foundry](https://github.com/jordaniza/OZ-Upgradeable-Foundry)
